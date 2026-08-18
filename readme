@@ -1,0 +1,94 @@
+# M4ZK1PLAY.NEWS
+
+> Cybersecurity • Technology • Analysis
+
+M4ZK1PLAY.NEWS adalah proyek website berita teknologi dengan tema
+cybersecurity dan digital investigation.
+
+Website ini dibuat sebagai **fictional news simulation**. Seluruh
+cerita mengenai M4zk1play dan insiden keamanan yang ditampilkan
+merupakan konten fiksi untuk kebutuhan desain, demonstrasi,
+storytelling, dan pembelajaran web development.
+
+---
+
+## PROJECT STATUS
+
+- Status: Active
+- Version: 1.0.0
+- Type: Static Website
+- Category: Cybersecurity News
+- Responsive: Yes
+- Backend: None
+- Database: None
+- API: None
+- Deployment: GitHub Pages
+
+---
+
+## FEATURES
+
+- Responsive cyber-news interface
+- Dark cybersecurity aesthetic
+- Breaking-news ticker
+- Responsive navigation
+- Mobile navigation menu
+- Hero headline
+- News cards
+- Special investigation article
+- Case-file sidebar
+- Global security section
+- Defensive security information
+- Mobile / tablet / desktop layout
+- Native CSS
+- Vanilla JavaScript
+- Google Fonts integration
+
+---
+
+## TECHNOLOGY STACK
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript ES6+
+
+### Typography
+
+- Inter
+- Space Grotesk
+
+### Deployment
+
+- GitHub Pages
+
+### Tidak Digunakan
+
+- Backend
+- Database
+- REST API
+- Authentication server
+- Node.js runtime
+- Python runtime
+- PHP
+- C++
+- Server-side processing
+
+Website dapat berjalan sebagai static site.
+
+---
+
+## PROJECT STRUCTURE
+
+```text
+mazk1play-news/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+│
+└── assets/
+    ├── images/
+    └── icons/
